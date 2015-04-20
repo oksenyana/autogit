@@ -4,7 +4,7 @@
 #                                          #
 ############################################
 
-source paraphraseHandler.sh
+source passphraseHandler.sh
 source input.sh
 
 echo "-Enter 1 to clone all projects"
